@@ -1,4 +1,4 @@
-<img src="./aditya_banner.svg" alt="Aditya Kumar" width="700"/>
+<img src="./aditya_banner.png" alt="Aditya Kumar" width="700"/>
 
 ### About me 
 - I love building cool things.
