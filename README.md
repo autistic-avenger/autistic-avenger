@@ -1,10 +1,9 @@
-![Aditya Kumar](./aditya_banner.svg)
+<img src="./aditya_banner.svg" alt="Aditya Kumar" width="700"/>
 
 ### About me 
 - I love building cool things.
 - Currently exploring **Kubernetes**.
 - My [Resume.](https://github.com/autistic-avenger/resume-archive/blob/main/RESUMES/RESUME_LATEST.pdf?raw=true)
-
 
 ### Skills
 
