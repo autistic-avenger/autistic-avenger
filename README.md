@@ -2,7 +2,8 @@
 
 ### About me 
 - I love building cool things.
-- Currently exploring **Kubernetes**.
+- Currently learning **Kubernetes** & **gRPC**.
+- Currently building KYLP, helps Twitch streamers turn their clips into YouTube videos in seconds .
 - My [Resume.](https://github.com/autistic-avenger/resume-archive/blob/main/RESUMES/RESUME_LATEST.pdf?raw=true)
 
 ### Skills
