@@ -3,7 +3,7 @@
 ### About me 
 - I love building cool things.
 - Currently learning **Kubernetes** & **gRPC**.
-- Currently building Cadence, Never Miss a moment 
+- Currently building Cadence. 
 - My [Resume.](https://github.com/autistic-avenger/resume-archive/blob/main/RESUMES/RESUME_LATEST.pdf?raw=true)
 
 ### Skills
@@ -11,6 +11,7 @@
 ![Skills](https://skillicons.dev/icons?i=go,ts,py,bash,tailwind,postgres,mongodb,nextjs,react,nodejs,express,docker,git,linux)
 
 ### Projects
+- **[Cadence](https://github.com/autistic-avenger/Cadence)** Turn long boring videos into short engaging clips using AI.
 - **[BlackBox](https://github.com/autistic-avenger/BlackBox)** TUI download manager written in Go.
 - **[Droppa](https://github.com/autistic-avenger/droppa)** P2P file transfer over WebRTC.
 - **[Armoracrypt](https://github.com/autistic-avenger/armoracrypt)**  Go CLI for cloud file/folder encryption.
