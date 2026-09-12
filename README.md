@@ -8,7 +8,7 @@
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=go,ts,py,bash,tailwind,postgres,mongodb,nextjs,react,nodejs,express,docker,git,linux)
+![Skills](https://skillicons.dev/icons?i=go,ts,py,bash,redis,postgres,mongodb,nextjs,react,nodejs,tailwind,express,docker,git,linux)
 
 ### Projects
 - **[Cadence](https://github.com/autistic-avenger/Cadence)** Turn long boring videos into short engaging clips using AI.
