@@ -17,7 +17,7 @@
 - **[Armoracrypt](https://github.com/autistic-avenger/armoracrypt)**  Go CLI for cloud file/folder encryption.
 - **[Litspots](https://github.com/autistic-avenger/litspots)** Social events hosting/discovery on a map.
 - **[Multiplayer Cursor](https://github.com/autistic-avenger/multiplayer-cursor)** Real-time shared cursor tracking for web.
-- **[Email Classifier](https://github.com/autistic-avenger/emailSpam)** A Naive Bayes spam classifier written in Go.
+- **[Email Classifier](https://github.com/autistic-avenger/spamFilter)** A Naive Bayes spam classifier written in Go.
 
 ### Achievements
 
